@@ -1,2 +1,2 @@
 # Hello-Word
-Really 
+sudo fdesetup changerecovery -institutional -keychain /Library/Keychains/FileVaultMaster.keychain
